@@ -1,0 +1,63 @@
+@font-face {
+    font-family: GoogleSansBlack;
+    src: url(../assets/resources/font/GoogleSans-Black.otf);
+}
+
+@font-face {
+    font-family: GoogleSansBlackItalic;
+    src: url(../assets/resources/font/GoogleSans-BlackItalic.otf);
+}
+
+@font-face {
+    font-family: GoogleSansBold;
+    src: url(../assets/resources/font/GoogleSans-Bold.otf);
+}
+
+@font-face {
+    font-family: GoogleSansBoldItalic;
+    src: url(../assets/resources/font/GoogleSans-BoldItalic.otf);
+}
+
+@font-face {
+    font-family: GoogleSansItalic;
+    src: url(../assets/resources/font/GoogleSans-Italic.otf);
+}
+
+@font-face {
+    font-family: GoogleSansLight;
+    src: url(../assets/resources/font/GoogleSans-Light.otf);
+}
+
+@font-face {
+    font-family: GoogleSansLightItalic;
+    src: url(../assets/resources/font/GoogleSans-LightItalic.otf);
+}
+
+@font-face {
+    font-family: GoogleSansMedium;
+    src: url(../assets/resources/font/GoogleSans-Medium.otf);
+}
+
+@font-face {
+    font-family: GoogleSansMediumItalic;
+    src: url(../assets/resources/font/GoogleSans-MediumItalic.otf);
+}
+
+@font-face {
+    font-family: GoogleSansRegular;
+    src: url(../assets/resources/font/GoogleSans-Regular.otf);
+}
+
+@font-face {
+    font-family: GoogleSansThin;
+    src: url(../assets/resources/font/GoogleSans-Thin.otf);
+}
+
+@font-face {
+    font-family: GoogleSansThinItalic;
+    src: url(../assets/resources/font/GoogleSans-ThinItalic.otf);
+}
+
+#app {
+    font-family: GoogleSansRegular;
+}
